@@ -16,9 +16,11 @@ g++ -v
 Для компиляции программы: перейти в каталог с исходником и ввести в командную строку:
 
 Linux:
+
 g++ -std=c++11 -o ffrtmp ffrtmp.cpp
 
 Win:
+
 g++ -std=c++11 -o ffrtmp.exe ffrtmp.cpp
 
 
